@@ -4,7 +4,7 @@
 [![C++Builder](https://img.shields.io/badge/Built%20with-C%2B%2BBuilder%2012-red.svg)](https://www.embarcadero.com/products/cbuilder)
 [![yt-dlp](https://img.shields.io/badge/Powered%20by-yt--dlp-red)](https://github.com/yt-dlp/yt-dlp)
 [![FFmpeg](https://img.shields.io/badge/Audio%20Engine-FFmpeg-green)](https://ffmpeg.org/)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 A lightweight, native Windows desktop application for downloading tracks, sets, and playlists from SoundCloud. Built with **C++Builder 12**, it leverages the power of **yt-dlp** and **FFmpeg** to provide fast audio extraction, seamless MP3 conversion, and real-time download progress tracking.
 
@@ -81,9 +81,14 @@ This project relies on the following open-source projects:
 - [FFmpeg](https://ffmpeg.org/) — Complete, cross-platform solution to record, convert, and stream audio/video.
 - [Embarcadero C++Builder 12](https://www.embarcadero.com/products/cbuilder) — Rapid native C++ application development framework.
 
+---
+
+## License
+
+This project is licensed under the **GNU General Public License v3.0** - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-## Disclaimer
+## ⚠️ Disclaimer
 
 This tool is created for educational and personal archival purposes only. Please respect the copyrights of artists and creators on SoundCloud when downloading media.
