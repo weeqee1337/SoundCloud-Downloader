@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.685,D:\C++\SoundCloud_Downloader\SoundCloudDownloader.cbproj=D:\C++\SoundCloud_Downloader\SoundCloudDownloader.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.471,D:\C++\SoundCloud_Downloader\SoundCloudDownloader.cbproj=C:\Users\Weeqee1337\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.437,D:\C++\SoundCloud_Downloader\SoundCloudDownloaderPCH1.h=C:\Users\Weeqee1337\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.176,=C:\Users\Weeqee1337\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.851,=C:\Users\Weeqee1337\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.452,D:\C++\SoundCloud_Downloader\Unit1.dfm=C:\Users\Weeqee1337\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.399,=D:\C++\SoundCloud_Downloader\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.452,D:\C++\SoundCloud_Downloader\Unit1.cpp=C:\Users\Weeqee1337\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.452,D:\C++\SoundCloud_Downloader\Unit1.h=C:\Users\Weeqee1337\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+  </Transactions>
+</BorlandProject>
